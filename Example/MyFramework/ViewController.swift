@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import MyFramework
 
 class ViewController: UIViewController {
 
